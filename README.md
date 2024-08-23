@@ -1,7 +1,8 @@
 Here's the content for a `README.md` file for your landing page project using HTML and CSS:
 
 ---
-
+## Hosted Link 
+https://harshrkgit2003.github.io/CodSoft_Task1_LandingPage/
 # Landing Page
 
 ## Table of Contents
